@@ -1,6 +1,6 @@
 # distributed_systems
 
-## Socketprogramming
+## Socket programming
 
 # Part 1
 
